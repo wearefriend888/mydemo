@@ -18,7 +18,7 @@ namespace test
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("this is test!");
+            MessageBox.Show("this is test!   OK");
         }
     }
 }
